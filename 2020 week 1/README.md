@@ -7,3 +7,11 @@
 
 * add the profits up from the sub-subcategory items
 * indent the items correctly
+
+### What i learneed:
+* how to use a DataFrame with a for-loop
+* applied a unique method to aggregate the profit
+
+## Python code
+<a href="Untitled.ipynb">
+</a>
