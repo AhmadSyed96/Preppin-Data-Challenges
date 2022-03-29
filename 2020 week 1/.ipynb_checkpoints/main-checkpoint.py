@@ -21,13 +21,13 @@ dfSubtotal = None
 for i in range(maxLevel, 0, -1):
     # remove a layer of hierarchy
     df['Hierarchy2'] = df['Hierarchy2'].str.extract('(.*?)\.\d+$')
-    print(df[['Hierarchy', 'Hierarchy2', 'Profit']])
+    print(df)
 
     # using only the detail records, sum by current level of hierarchy
     # and add to the Subtotal df
     dfSubtotal = pd.concat([dfSubtotal,
                             df[df['Level'] == maxLevel].groupby(df['Hierarchy2'], as_index=True)['Profit'].sum()])
-    print(dfSubtotal.reset_index())
+    print(dfSubtotal)
 # join subtotals back to the main dataframe and update the Profit
 df = pd.merge(df, dfSubtotal, how='left', left_on='Hierarchy', right_index=True)
 print(df)
