@@ -13,6 +13,6 @@
 <img src='code snippit.jpg?raw=true' alt="Python code">
 </a>
 
-### What i learneed:
+### What i learned:
 * how to use a DataFrame with a for-loop
 * applied a unique method to aggregate the profit
