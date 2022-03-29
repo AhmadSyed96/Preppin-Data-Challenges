@@ -14,4 +14,5 @@
 
 ## Python code
 <a href="Untitled.ipynb">
+<img src='code snippit.jpg?raw=true' alt="Python code">
 </a>
