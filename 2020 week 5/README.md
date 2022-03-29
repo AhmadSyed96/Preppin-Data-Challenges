@@ -1,9 +1,9 @@
-# Preppin' Data 2021 Week 4
+# Preppin' Data 2021 Week 5
 
 ## Objectives:
 <img src='2020 w5.jpg?raw=true' alt='sum pic'>
 
-
+* group by arena and agggregate
 
 ## Python code
 <a href='week5 soln.py'>
@@ -11,3 +11,4 @@
 </a>
 
 ## What I Learned:
+N/A
