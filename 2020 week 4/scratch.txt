@@ -1,0 +1,29 @@
+,Response,What day did you fill the survey in?,What time did you fill the survey in?,Would you recommend C&BSco to your friends and family? (Score 0-10),"If you would, why?","If you wouldn't, why?",Country,Store,Name,DoB
+0,1,13/01/2020,08:21,0,,No-one answering my call,England,Clapham,Ross,21/08/2002
+1,2,07/01/2020,13:19,10,Great service (eventually),,Ingland,Clapham,Ross,21/08/2002
+2,3,5th Jan 2020,21:31,8,Easy to work with,,England,Clapham,Clare,23/09/1997
+3,4,05/01/2020,13:03,7,Nice soaps,,England,Clapham,Juliana,09/10/1995
+4,5,19/01/2020,19:01,1,,They've all gone moldy,Egland,Clapham,Juliana,09/10/1995
+5,6,08/01/2020,22:09,9,Beautiful fragrance,,3ngland,Clapham,Juliana,09/10/1995
+6,7,04/01/2020,09:13,6,It's ok,,England,Wimbledon,Etienne,13/04/1990
+7,8,Monday - 13th Jan,15:16,9,Lathers really easily,,England,Wimbledon,Etienne,13/04/1990
+8,9,2020/01/19,3.10 am,4,,Lasts one wash for me,England,Wimbledon,Bona,20/02/2002
+9,10,15/1/2020,19:27,8,Great management,,Ingland,Peckham,Bona,20/02/2002
+10,11,7 Dec 2019,02:22,2,,Their soaps are too slippery,Eggland,Peckham,Kamilla,09/07/2001
+11,12,20th Jan 2020,1653,8,Their soaps make me feel radiant,,England,Peckham,Gwilym,01/01/1970
+12,13,20/01/2020,16:56,1,,"Out, damned spot! out, I say! Will these hands ne'er be clean? Here's the smell of the blood still: all the perfumes of Chin Beard and Suds Co will not sweeten this little hand.",Scotland,Scotland,Lady MacBeth,05/10/1930
+13,14,5/20/2019,23:00,9,My dirty stinkin rat is now nice and clean,,United State,Lower East Side,James Cagney,
+14,15,26/12/2019,14:14,2,,Smells great but I can't get it out of my hair!!!,United States,Lower East Side,Joe,13/11/1982
+15,16,05/01/2020,1.30pm,9,Wonderfully fragranced soaps. They always delight my guests. Such a pity that you discontinued my favourite smell though!,,Sc0tland,Scotland,Sylvie,16/07/1956
+16,17,08/01/2016,14:23,7,I love that you have soaps smelling like ginger beer,,ENGLAND,Putney,Anya,08/04/1955
+17,18,20/01/2020,2055,7,Their products are 100% natural (pure olive oil soap lover),,England,Putney,Angelos,03/11/1957
+18,19,10/01/2020,07:02,6,,"The customer service is terrible, I licked one soap to see if it was 'banana' as advertised, and I got kicked out",ENGLAND,Putney,Alice,05/09/1998
+19,20,05/01/2020,09.40am,5,,"Meh, it's ok",Scottish,Scotland,Sylvie,16/07/1956
+20,21,24/01/2020,1911,3,I found out the olives we're from Greece,,Ingland,Putney,Angelos,03/11/1957
+21,22,21/01/2020,09:35,7,Cleans perfectly and isn't too slippery,,Netherlands,Utrecht,Bert,03/12/1975
+22,23,01/01/2020,09:35,2,,my dog ate it,Netherlands,Amsterdam,Henk,01/08/1985
+23,24,2020-01-12,2400,9,they are a smelly bunch,,The Netherlands,Amstelveen,Bas,22/09/1988
+24,25,21/01/2020,09:35,10,great for my slip and slide,,Netherlands,Friesland,Andre,12/12/2000
+25,26,21/01/2020,10:15,10,delicious,,England,Putney,Jon,10/10/1992
+26,27,01/01/2020,11:01,2,,my dog ate it agin,Netherlands,Amsterdam,Henk,01/08/1985
+27,28,21/01/2020,10:25,10,"great, delicious",,England,Putney,Jon,10/10/1992

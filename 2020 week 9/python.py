@@ -1,0 +1,27 @@
+
+import pandas as pd
+from pandasgui import show
+import numpy as np
+
+df_polls = pd.read_csv('PD 2020 Wk 9 Input - Sheet1.csv').drop(0).assign(Start_Date=lambda df_x:df_x['Date'].str.extract('(\d+/\d+)\s'),
+                                                                   End_Date=lambda df_x:df_x['Date'].str.extract('.*\s(\d+/\d+)'),
+                                                                   Sample_Type=lambda df_x:df_x['Sample'].str[-2:])\
+                                                    .replace({'RV':'Registered Voter', 'LV':'Likely Voter'})
+# show(df_polls)
+
+df_candidates = df_polls.melt(id_vars=['Poll', 'Date', 'Sample', 'Start_Date', 'End_Date', 'Sample_Type'], var_name='Candidate', value_name='Poll Results')
+df_candidates = df_candidates[df_candidates['Poll Results'] != '--'].reset_index(drop=True)
+df_candidates['Poll Results'] = df_candidates['Poll Results'].astype('int')
+df_candidates['Poll Rank'] = df_candidates.groupby(['Poll','End_Date'])['Poll Results'].rank(method='max', ascending=False)
+df_candidates['1st'] = df_candidates.groupby(['Poll', 'End_Date'])['Poll Results'].transform('max')
+df_candidates['2nd'] = df_candidates.groupby(['Poll', 'End_Date'])['Poll Results'].transform(lambda x: x.nlargest(2).min())
+df_candidates['Diff'] = df_candidates['1st'] - df_candidates['2nd']
+# df_candidates['2nd'] = np.where(df_candidates.groupby(['Poll','End_Date'])['Poll Rank']==2, df_candidates['Poll Results'].max(),np.where(df_candidates.groupby(['Poll','End_Date'])['Poll Rank']==3, df_candidates['Poll Results'].max(),'not found'))
+# df_candidates['2nd'] = df_candidates.sort_values(by=['Poll Results'], ascending=False).groupby(['Poll','End_Date'])['Poll Results'].max().shift(-1)
+show(df_candidates)
+
+# y = df_candidates.groupby(['Poll', 'End_Date'])['Poll Results'].transform('max')
+# print(y)
+# x = df_candidates.groupby(['Poll', 'End_Date'])['Poll Results'].nlargest(2).reset_index()
+# print(x[1::2])
+# print(x.groupby(['Poll', 'End_Date'])['Poll Results'].min())
