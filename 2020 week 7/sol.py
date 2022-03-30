@@ -24,4 +24,4 @@ all_emps_per_month_df['Salary'] = all_emps_per_month_df['Salary'].astype('string
 monthly_salary_df = all_emps_per_month_df.groupby('Month',as_index=False).agg({'Employee ID':'count', 'Salary':'sum'})
 monthly_salary_df.columns = ['Month', 'Current Employees', 'Salary']
 monthly_salary_df['Avg Salary'] = monthly_salary_df['Salary'] / monthly_salary_df['Current Employees']
-print(monthly_salary_df.head(20))
+show(monthly_salary_df)
