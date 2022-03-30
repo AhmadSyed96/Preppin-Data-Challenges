@@ -6,6 +6,7 @@ input
 * Sales for each scent name by year by week
 * percentage of sales for each scent code for each product type
 * scent code to scent name
+
 output
 * sale per product type per year per week
 
