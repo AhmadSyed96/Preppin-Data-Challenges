@@ -2,6 +2,7 @@
 
 ## Objective:
 <img src='2020 w11.jpg?raw=true' alt="Python code for bonus charts">
+
 * determine how many of each box size we need for each order and then the capacity of thse boxes
 
 ## Python code
