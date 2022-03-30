@@ -16,7 +16,8 @@ df_output['Round Par Score'] = (df_output['Par Score']/4).round(decimals=0)
 rounds = ['round 1', 'round 2', 'round 3', 'round 4']
 numbers=[1,2,3,4]
 ids = df_output.drop(columns = rounds).columns.to_list()
-df_output = df_output.melt(id_vars=ids, value_vars=rounds, value_name='Round Score', var_name='Round').replace(dict(zip(rounds, numbers)))
+df_output = df_output.melt(id_vars=ids, value_vars=rounds, value_name='Round Score', var_name='Round')\
+                     .replace(dict(zip(rounds, numbers)))
 
 #union 3 times
 df_output['table'] = 1
@@ -29,7 +30,11 @@ df_output = pd.concat([df_output2,df_output3,df_output4])
 df_output['Round to Par'] = df_output['Round Score'] - df_output['Round Par Score']
 
 #create round result type
-df_output['Round Result Type'] = np.where(df_output['Round Score'] > df_output['Round Par Score'], 'over', np.where(df_output['Round Score'] < df_output['Round Par Score'], 'under', 'par'))
+df_output['Round Result Type'] = np.where(df_output['Round Score'] > df_output['Round Par Score'],
+                                          'over',
+                                          np.where(df_output['Round Score'] < df_output['Round Par Score'],
+                                                   'under',
+                                                   'par'))
 
 #add square color
 df_output['Square Color'] = df_output['Round'].map({1:'A', 2:'B', 3:'C', 4:'D'})
@@ -62,7 +67,10 @@ df_output['Decade Rank'] = df_output['Decade'].rank(method='dense')
 df_output['Year of Decade'] =  (df_output['Year'].astype('string').str[-1]).astype('int')
 
 #get output 2
-df_output_2 = df_output.groupby('Decade', as_index=False).agg(Max_Tot = ('total', 'sum'), Min_Tot = ('total', 'min'), Max_Score = ('Round Score', 'max'), Min_Score = ('Round Score', 'min'))
+df_output_2 = df_output.groupby('Decade', as_index=False).agg(Max_Tot = ('total', 'sum'),
+                                                              Min_Tot = ('total', 'min'),
+                                                              Max_Score = ('Round Score', 'max'),
+                                                              Min_Score = ('Round Score', 'min'))
 show(df_output_2)
 
 

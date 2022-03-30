@@ -1,4 +1,3 @@
-
 import pandas as pd
 from pandasgui import show
 import numpy as np
@@ -16,12 +15,4 @@ df_candidates['Poll Rank'] = df_candidates.groupby(['Poll','End_Date'])['Poll Re
 df_candidates['1st'] = df_candidates.groupby(['Poll', 'End_Date'])['Poll Results'].transform('max')
 df_candidates['2nd'] = df_candidates.groupby(['Poll', 'End_Date'])['Poll Results'].transform(lambda x: x.nlargest(2).min())
 df_candidates['Diff'] = df_candidates['1st'] - df_candidates['2nd']
-# df_candidates['2nd'] = np.where(df_candidates.groupby(['Poll','End_Date'])['Poll Rank']==2, df_candidates['Poll Results'].max(),np.where(df_candidates.groupby(['Poll','End_Date'])['Poll Rank']==3, df_candidates['Poll Results'].max(),'not found'))
-# df_candidates['2nd'] = df_candidates.sort_values(by=['Poll Results'], ascending=False).groupby(['Poll','End_Date'])['Poll Results'].max().shift(-1)
 show(df_candidates)
-
-# y = df_candidates.groupby(['Poll', 'End_Date'])['Poll Results'].transform('max')
-# print(y)
-# x = df_candidates.groupby(['Poll', 'End_Date'])['Poll Results'].nlargest(2).reset_index()
-# print(x[1::2])
-# print(x.groupby(['Poll', 'End_Date'])['Poll Results'].min())
