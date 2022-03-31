@@ -25,3 +25,4 @@ output
 ## What I learned:
 * how to rejoin a DF when it has been melted multiple times
 * learned about pipe() although i didnt use it here
+* learned how to use a custome function during chain assignment
