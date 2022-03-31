@@ -13,7 +13,7 @@ output
 
 ## Python code
 <a href="solution.py">
-<img src='code snippit.jpg?raw=true' alt="Python code">
+<img src='code gif.gif?raw=true' alt="Python code">
 </a>
 
 ##  Steps
