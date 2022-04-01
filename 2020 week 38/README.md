@@ -1,5 +1,5 @@
 # Preppin' Data 2021 Week 38
-<img src='2020 w_.jpg?raw=true' alt="Python code for bonus charts">
+<img src='2020 w38.jpg?raw=true' alt="Python code for bonus charts">
 
 ## Tables
 input
