@@ -15,7 +15,7 @@ output
 * our airport is using a random number generator to assign gates for flights and manually correcting the errors in real time. this has led to passengers going crazyin order to get to their in time. we are assigned the challenge to find a more logical method of assigning the gates
 * here are the requirements:
 
-..* The gate is needed for 45 mins for each flight i.e. a flight which is boarding at 6am will need the gate up to (but not including) 6.45am
+.. * The gate is needed for 45 mins for each flight i.e. a flight which is boarding at 6am will need the gate up to (but not including) 6.45am
 
 ## Python code
 <a href="_.py">
