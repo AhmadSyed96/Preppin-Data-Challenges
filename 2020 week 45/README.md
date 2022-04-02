@@ -1,5 +1,5 @@
 # Preppin' Data 2021 Week 45
-<img src='2020 w45.jpg?raw=true' alt="Python code for bonus charts">
+<img src='2020 W45.jpg?raw=true' alt="Python code">
 
 ## Tables
 input
