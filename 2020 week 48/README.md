@@ -1,5 +1,5 @@
 # Preppin' Data 2021 Week 48
-<img src='2020 w48.jpg?raw=true' alt="Python code for bonus charts">
+<img src='2020 W48.jpg?raw=true' alt="Python code for bonus charts">
 
 ## Tables
 input
@@ -31,7 +31,6 @@ output
 * join all four tables to find possible fight-gate pairing
 * impliment the priorities and remove them from the newly card df stated above
 * concat and merge the time-to-remote-stands dataframe for those gate that need remote access
-![87ef6d33a1adb5137e18a3174afab6c131ec823e_hq](https://user-images.githubusercontent.com/66706924/161397985-f3405c23-395d-4a43-a988-4ec063b1587a.gif)
 
 ## Problems ran into / What I learned:
 * how to make this problem more pythonic. technically you can have a tie while implementing anyone of the priorities buut the problem and hence the code doesnt address that
