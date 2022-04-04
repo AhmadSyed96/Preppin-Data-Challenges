@@ -1,5 +1,4 @@
 # Preppin' Data 2021 Week 50
-<img src='2020 w50.jpg?raw=true' alt="Python code for bonus charts">
 
 ## Tables
 input
