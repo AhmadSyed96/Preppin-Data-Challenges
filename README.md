@@ -17,7 +17,7 @@
 ### <a id="2020"></a>2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span title="Return to table of contents"><a href="#contents">⬆️</a></span>
 |Week|Challenge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Challenge<br>Description|My Solutions|
 |-:|:--------------------------------------------------|:-:|:-:|
-|1|Accounting Formatting|[📋](https://preppindata.blogspot.com/2020/01/2020-week-1.html)|[✅](2020-w1/README.md)|
+|1|Accounting Formatting|[📋](https://preppindata.blogspot.com/2020/01/2020-week-1.html)|[✅](2020 week 1/README.md)|
 |2|Cleaning Time|[📋](https://preppindata.blogspot.com/2020/01/2020-week-2.html)|[✅](2020/preppin-data-2020-02/README.md)|
 |3|NBA Standings|[📋](https://preppindata.blogspot.com/2020/01/2020-week-3.html)|[✅](2020/preppin-data-2020-03/README.md)|
 |4|C&BS Co: Store Survey deduplication|[📋](https://preppindata.blogspot.com/2020/01/2020-week-4.html)|[✅](2020/preppin-data-2020-04/README.md)|
