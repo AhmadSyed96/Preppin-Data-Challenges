@@ -20,31 +20,3 @@ df_yearly_comparison = pd.merge(df_targets_yearly, df_transactions_yearly.query(
 # show(df_weekly_comparison, df_yearly_comparison)
 
 df_output = pd.concat([df_yearly_comparison, df_weekly_comparison]).assign(per_diff_to_last = lambda dfx : (dfx['This Year'] - dfx['Last Year']) / dfx['Last Year'], per_diff_to_target = lambda dfx : (dfx['This Year'] - dfx['Target']) / dfx['Target'])
-# show(df_output)
-
-
-
-df_transactions_per_day = pd\
-                        .read_excel('Transactions (1).xlsx')\
-                        .melt(id_vars=['TransactionDate', 'ProductName'], value_vars=['Quantity', 'Income'], value_name='This Year', var_name='Metric')\
-                        .assign(Year = lambda dfx : dfx['TransactionDate'].dt.year,
-                                Week = lambda dfx : dfx['TransactionDate'].dt.week,
-                                YTD = lambda dfx : dfx.groupby(['ProductName', 'Year', 'Metric'])['This Year'].cumsum(),
-                                WTD = lambda dfx : dfx.groupby(['ProductName', 'Year', 'Week', 'Metric'])['This Year'].cumsum())\
-                        .melt(id_vars=['TransactionDate', 'ProductName', 'Metric'], value_vars=['YTD', 'WTD'], value_name='This Year', var_name='Time Period')\
-                        .assign(last_year = lambda dfx : dfx['TransactionDate'] - pd.DateOffset(years=1))
-
-df_transactions_per_day =  df_transactions_per_day.merge(df_transactions_per_day[['TransactionDate',
-                                                                'ProductName',
-                                                                'Metric',
-                                                                'Time Period',
-                                                                'This Year']],
-                                                how='left',
-                                                left_on=['last_year', 'ProductName', 'Metric', 'Time Period'],
-                                                right_on=['TransactionDate', 'ProductName', 'Metric', 'Time Period'])\
-                                        .drop(columns=['last_year', 'TransactionDate_y'])\
-                                        .rename(columns={'TransactionDate_x':'TransactionDate', 'This Year_x':'This Year', 'This Year_y':'Last Year'})\
-                                        .assign(Year = lambda dfx : dfx['TransactionDate'].dt.year,
-                                                Week = lambda dfx : dfx['TransactionDate'].dt.week)
-# show(df_transactions_per_day)
-

@@ -19,8 +19,10 @@ df_projections = pd.read_excel('Prep Air Ticket Sales.xlsx', sheet_name='2020 Pr
                            Change = lambda dfx : (dfx['number'] * dfx['sign'] * 0.01) + 1)\
                    .drop(columns=['% Change from Q1', 'number', 'sign'])\
                    .pivot(index='Country', columns='Quarter', values='Change').reset_index().rename_axis(None, axis=1)
+show(df_projections)
 
-df_output = pd.merge(df_sales, df_targets, on=['Date', 'Origin', 'Destination']).merge(df_airports, how='left', left_on='Origin', right_on='Airport Code')\
+df_output = pd.merge(df_sales, df_targets, on=['Date', 'Origin', 'Destination'])\
+              .merge(df_airports, how='left', left_on='Origin', right_on='Airport Code')\
               .merge(df_airports, how='left', left_on='Destination', right_on='Airport Code')\
               .drop(columns=['Airport Code_x', 'Airport Code_y'])\
               .rename(columns={'Country_x':'Origin Country', 'Country_y':'Destination Country'})\
