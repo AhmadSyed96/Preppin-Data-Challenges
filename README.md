@@ -18,8 +18,8 @@
 |Week|Challenge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Challenge<br>Description|My Solutions|
 |-:|:--------------------------------------------------|:-:|:-:|
 |1|Accounting Formatting|[📋](https://preppindata.blogspot.com/2020/01/2020-week-1.html)|[✅](https://github.com/AhmadSyed96/Preppin-Data-Challenges/blob/4859e9ff5bfe1c51202a7cbf522b84c877397619/2020%20week%201/README.md)|
-|2|Cleaning Time|[📋](https://preppindata.blogspot.com/2020/01/2020-week-2.html)|[✅](2020/preppin-data-2020-02/README.md)|
-|3|NBA Standings|[📋](https://preppindata.blogspot.com/2020/01/2020-week-3.html)|[✅](2020/preppin-data-2020-03/README.md)|
+|2|Cleaning Time|[📋](https://preppindata.blogspot.com/2020/01/2020-week-2.html)|[✅](https://github.com/AhmadSyed96/Preppin-Data-Challenges/blob/1b0fd8870c252ea71663be763288bd1f771cd356/2020%20week%202/README.md)|
+|3|NBA Standings|[📋](https://preppindata.blogspot.com/2020/01/2020-week-3.html)|[✅](https://github.com/AhmadSyed96/Preppin-Data-Challenges/blob/1b0fd8870c252ea71663be763288bd1f771cd356/2020%20week%203/README.md)|
 |4|C&BS Co: Store Survey deduplication|[📋](https://preppindata.blogspot.com/2020/01/2020-week-4.html)|[✅](2020/preppin-data-2020-04/README.md)|
 |5|Technique: Standard Competition Rank|[📋](https://preppindata.blogspot.com/2020/01/2020-week-5.html)|[✅](2020/preppin-data-2020-05/README.md)|
 |6|C&BS Co: Currency Conversion|[📋](https://preppindata.blogspot.com/2020/02/2020-week-6.html)|[✅](2020/preppin-data-2020-06/README.md)|
