@@ -5,7 +5,7 @@
 <br>
 
 ## <a id="contents"></a>Contents
-* 📋 &nbsp;Challenge lists:&nbsp;&nbsp;   [2022](#2022)  &nbsp;|&nbsp;  [2021](#2021)  &nbsp;|&nbsp;  [2020](#2020)  &nbsp;|&nbsp;  [2019](#2019)
+* 📋 &nbsp;Challenge lists:&nbsp;&nbsp;   [2020](#2020)  &nbsp
 * 🟦 &nbsp;[Alteryx tool usage](#alteryx_index)
 * 🐍 &nbsp;[Python function/method usage](#python_index)
 * 👥 &nbsp;[Preppin' Data with Python community](#community)
