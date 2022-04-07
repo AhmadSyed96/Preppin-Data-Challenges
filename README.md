@@ -20,11 +20,11 @@
 |1|Accounting Formatting|[📋](https://preppindata.blogspot.com/2020/01/2020-week-1.html)|[✅](https://github.com/AhmadSyed96/Preppin-Data-Challenges/blob/4859e9ff5bfe1c51202a7cbf522b84c877397619/2020%20week%201/README.md)|
 |2|Cleaning Time|[📋](https://preppindata.blogspot.com/2020/01/2020-week-2.html)|[✅](https://github.com/AhmadSyed96/Preppin-Data-Challenges/blob/1b0fd8870c252ea71663be763288bd1f771cd356/2020%20week%202/README.md)|
 |3|NBA Standings|[📋](https://preppindata.blogspot.com/2020/01/2020-week-3.html)|[✅](https://github.com/AhmadSyed96/Preppin-Data-Challenges/blob/1b0fd8870c252ea71663be763288bd1f771cd356/2020%20week%203/README.md)|
-|4|C&BS Co: Store Survey deduplication|[📋](https://preppindata.blogspot.com/2020/01/2020-week-4.html)|[✅](2020/preppin-data-2020-04/README.md)|
-|5|Technique: Standard Competition Rank|[📋](https://preppindata.blogspot.com/2020/01/2020-week-5.html)|[✅](2020/preppin-data-2020-05/README.md)|
-|6|C&BS Co: Currency Conversion|[📋](https://preppindata.blogspot.com/2020/02/2020-week-6.html)|[✅](2020/preppin-data-2020-06/README.md)|
-|7|Counting People Past & Present|[📋](https://preppindata.blogspot.com/2020/02/2020-week-7.html)|[✅](2020/preppin-data-2020-07/README.md)|
-|8|Comparing Actuals vs Budget / Profitable levels|[📋](https://preppindata.blogspot.com/2020/02/2020-week-8.html)|[✅](2020/preppin-data-2020-08/README.md)|
+|4|C&BS Co: Store Survey deduplication|[📋](https://preppindata.blogspot.com/2020/01/2020-week-4.html)|[✅](https://github.com/AhmadSyed96/Preppin-Data-Challenges/blob/7ced982aa1c10e05289295a13b7e9f9769614fb8/2020/week%2004/README.md)|
+|5|Technique: Standard Competition Rank|[📋](https://preppindata.blogspot.com/2020/01/2020-week-5.html)|[✅](https://github.com/AhmadSyed96/Preppin-Data-Challenges/blob/7ced982aa1c10e05289295a13b7e9f9769614fb8/2020/week%2005/README.md)|
+|6|C&BS Co: Currency Conversion|[📋](https://preppindata.blogspot.com/2020/02/2020-week-6.html)|[✅](https://github.com/AhmadSyed96/Preppin-Data-Challenges/blob/7ced982aa1c10e05289295a13b7e9f9769614fb8/2020/week%2006/README.md)|
+|7|Counting People Past & Present|[📋](https://preppindata.blogspot.com/2020/02/2020-week-7.html)|[✅](https://github.com/AhmadSyed96/Preppin-Data-Challenges/blob/7ced982aa1c10e05289295a13b7e9f9769614fb8/2020/week%2007/README.md)|
+|8|Comparing Actuals vs Budget / Profitable levels|[📋](https://preppindata.blogspot.com/2020/02/2020-week-8.html)|[✅](/2020/week 08/README)|
 |9|C&BS Co: Political Monitoring|[📋](https://preppindata.blogspot.com/2020/02/2020-week-9.html)|[✅](2020/preppin-data-2020-09/README.md)|
 |10|C&BS Co: A Logic Grid Puzzle|[📋](https://preppindata.blogspot.com/2020/03/2020-week-10.html)||
 |11|C&BS Co: Knapsack Problem|[📋](https://preppindata.blogspot.com/2020/03/2020-week-11.html)||
@@ -71,3 +71,72 @@
 |52|US Women's Championship Golf|[📋](https://preppindata.blogspot.com/2020/12/2020-week-52.html)||
 |53|Changing Star Signs|[📋](https://preppindata.blogspot.com/2020/12/2020-week-53.html)||
 <br>
+
+## <a id="community"></a> 👥Others in the Preppin' Data with Python community:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span title="Return to table of contents"><a href="#contents">⬆️</a></span>
+<table valign="center" border="0">
+  <tr>
+    <td>Ahmad Syed</td>
+    <td><a href="https://github.com/AhmadSyed96/Preppin-Data-Challenges"><img src="https://img.shields.io/badge/-AhmadSyed96-444444?style=flat-square&logo=github"></a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Arsene Xie</td>
+    <td><a href="https://github.com/ArseneXie/Preppindata"><img src="https://img.shields.io/badge/-ArseneXie-444444?style=flat-square&logo=github"></a></td>
+    <td><a href="https://twitter.com/ArseneXie"><img src="https://img.shields.io/badge/-@ArseneXie-444444?style=flat-square&logo=twitter"</a></td>
+  </tr>
+  <tr>
+    <td>Diana Kung'u</td>
+    <td><a href="https://github.com/diana-kungu/Prepping-Data"><img src="https://img.shields.io/badge/-diana--kungu-444444?style=flat-square&logo=github"></a></td>
+    <td><a href="https://twitter.com/d_kungu"><img src="https://img.shields.io/badge/-@d__kungu-444444?style=flat-square&logo=twitter"</a></td>
+  </tr>
+  <tr>
+    <td>G S Deepak Kumar</td>
+    <td><a href="https://github.com/DeepakKumarGS/Prepping-Data-Challenges"><img src="https://img.shields.io/badge/-DeepakKumarGS-444444?style=flat-square&logo=github"></a></td>
+    <td></td>
+  </tr>  
+  <tr>
+    <td>Ghafar Shah</td>
+    <td><a href="https://github.com/ghafarshahanalytics/Preppin-Data-Challenge"><img src="https://img.shields.io/badge/-ghafarshahanalytics-444444?style=flat-square&logo=github"></a></td>
+    <td><a href="https://twitter.com/GhafarShah9"><img src="https://img.shields.io/badge/-@GhafarShah9-444444?style=flat-square&logo=twitter"</a></td>
+  </tr>
+  <tr>
+    <td>Jeremy Harris</td>
+    <td><a href="https://github.com/jharris126/preppin-data-jeremy"><img src="https://img.shields.io/badge/-jharris126-444444?style=flat-square&logo=github"></a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Megan Whitacre</td>
+    <td><a href="https://github.com/whitacrem/preppin-data"><img src="https://img.shields.io/badge/-whitacrem-444444?style=flat-square&logo=github"></a></td>
+    <td><a href="https://twitter.com/MeganWhitacre"><img src="https://img.shields.io/badge/-@MeganWhitacre-444444?style=flat-square&logo=twitter"</a></td>
+  </tr>  
+  <tr>
+    <td>Michael Harty</td>
+    <td><a href="https://github.com/mharty3/preppin-data"><img src="https://img.shields.io/badge/-mharty3-444444?style=flat-square&logo=github"></a></td>
+    <td><a href="https://twitter.com/michaelharty3"><img src="https://img.shields.io/badge/-@michaelharty3-444444?style=flat-square&logo=twitter"</a></td>
+  </tr>  
+  <tr>
+    <td>SmirkyGraphs (Alex)</td>
+    <td><a href="https://github.com/SmirkyGraphs/preppin-data-challenge/"><img src="https://img.shields.io/badge/-SmirkyGraphs-444444?style=flat-square&logo=github"></a></td>
+    <td><a href="https://twitter.com/Smirkygraphs"><img src="https://img.shields.io/badge/-@Smirkygraphs-444444?style=flat-square&logo=twitter"</a></td>
+  </tr>  
+  <tr>
+    <td>Tettey Yamak</td>
+    <td><a href="https://github.com/PTettey/Data-Prepping"><img src="https://img.shields.io/badge/-PTettey-444444?style=flat-square&logo=github"></a></td>
+    <td><a href="https://twitter.com/TetteyYamak"><img src="https://img.shields.io/badge/-@TetteyYamak-444444?style=flat-square&logo=twitter"</a></td>
+  </tr>  
+  <tr>
+    <td>Will Sutton</td>
+    <td><a href="https://github.com/wjsutton/preppin-data"><img src="https://img.shields.io/badge/-wjsutton-444444?style=flat-square&logo=github"></a></td>
+    <td><a href="https://twitter.com/WJSutton12"><img src="https://img.shields.io/badge/-@WJSutton12-444444?style=flat-square&logo=twitter"</a></td>
+  </tr>    
+  <tr>
+    <td>Yash Sakhuja</td>
+    <td><a href="https://github.com/yashsakhuja/2022-Preppin-Data-Challenge"><img src="https://img.shields.io/badge/-yashsakhuja-444444?style=flat-square&logo=github"></a></td>
+    <td><a href="https://twitter.com/sakhuja_yash"><img src="https://img.shields.io/badge/-@sakhuja__yash-444444?style=flat-square&logo=twitter"</a></td>
+  </tr> 
+  <tr>
+    <td>yxdj2019</td>
+    <td><a href="https://github.com/yxdj2019"><img src="https://img.shields.io/badge/-yxdj2019-444444?style=flat-square&logo=github"></a></td>
+    <td></td>
+  </tr>  
+</table>
