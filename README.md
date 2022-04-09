@@ -6,7 +6,6 @@
 
 ## <a id="contents"></a>Contents
 * 📋 &nbsp;Challenge lists:&nbsp;&nbsp;   [2020](#2020)  &nbsp;
-* 🟦 &nbsp;[Alteryx tool usage](#alteryx_index)
 * 🐍 &nbsp;[Python function/method usage](#python_index)
 * 👥 &nbsp;[Preppin' Data with Python community](#community)
 <br>
@@ -24,7 +23,7 @@
 |5|Technique: Standard Competition Rank|[📋](https://preppindata.blogspot.com/2020/01/2020-week-5.html)|[✅](https://github.com/AhmadSyed96/Preppin-Data-Challenges/blob/7ced982aa1c10e05289295a13b7e9f9769614fb8/2020/week%2005/README.md)|
 |6|C&BS Co: Currency Conversion|[📋](https://preppindata.blogspot.com/2020/02/2020-week-6.html)|[✅](https://github.com/AhmadSyed96/Preppin-Data-Challenges/blob/7ced982aa1c10e05289295a13b7e9f9769614fb8/2020/week%2006/README.md)|
 |7|Counting People Past & Present|[📋](https://preppindata.blogspot.com/2020/02/2020-week-7.html)|[✅](https://github.com/AhmadSyed96/Preppin-Data-Challenges/blob/7ced982aa1c10e05289295a13b7e9f9769614fb8/2020/week%2007/README.md)|
-|8|Comparing Actuals vs Budget / Profitable levels|[📋](https://preppindata.blogspot.com/2020/02/2020-week-8.html)|[✅](/2020/week 08/README)|
+|8|Comparing Actuals vs Budget / Profitable levels|[📋](https://preppindata.blogspot.com/2020/02/2020-week-8.html)|[✅](https://github.com/AhmadSyed96/Preppin-Data-Challenges/blob/48c3bca7c1c18acfc3a461d0cb8e77447ea86117/2020/week%2008/README.md)|
 |9|C&BS Co: Political Monitoring|[📋](https://preppindata.blogspot.com/2020/02/2020-week-9.html)|[✅](https://github.com/AhmadSyed96/Preppin-Data-Challenges/blob/e7d43f547f7fe679225b9beb65bbb94c42f3790d/2020/week%2009/README.md)|
 |10|Pokémon Hierarchies|[📋](https://preppindata.blogspot.com/2021/02/2021-week-10-pokemon-hierarchies.html)||
 |11|C&BS Co: Knapsack Problem|[📋](https://preppindata.blogspot.com/2020/03/2020-week-11.html)|[✅](https://github.com/AhmadSyed96/Preppin-Data-Challenges/blob/e7d43f547f7fe679225b9beb65bbb94c42f3790d/2020/week%2011/README.md)|
