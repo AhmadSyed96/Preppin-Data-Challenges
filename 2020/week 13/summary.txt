@@ -1,0 +1,6 @@
+tracked support department performance using SLA based metrics ordered by time of collection
+
+extracted and joined ticket data to department data in order to group by the most current iteration of the ticket
+
+ranked department performance against eachother while also determining how many closed SLA's exist along with how many can potentially be closed
+
