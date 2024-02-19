@@ -25,7 +25,7 @@
 |7|Counting People Past & Present|[📋](https://preppindata.blogspot.com/2020/02/2020-week-7.html)|[✅](/2020/week%2007/README.md)|
 |8|Comparing Actuals vs Budget / Profitable levels|[📋](https://preppindata.blogspot.com/2020/02/2020-week-8.html)|[✅](/2020/week%2008/README.md)|
 |9|C&BS Co: Political Monitoring|[📋](https://preppindata.blogspot.com/2020/02/2020-week-9.html)|[✅](/2020/week%2009/README.md)|
-|10|Pokémon Hierarchies|[📋](https://preppindata.blogspot.com/2021/02/2021-week-10-pokemon-hierarchies.html)||
+|10|C&BS Co: A Logic Grid Puzzle|[📋](https://preppindata.blogspot.com/2020/03/2020-week-10.html)||
 |11|C&BS Co: Knapsack Problem|[📋](https://preppindata.blogspot.com/2020/03/2020-week-11.html)|[✅](/2020/week%2011/README.md)|
 |12|C&BS Co: Messy Data Clean Up|[📋](https://preppindata.blogspot.com/2020/03/2020-week-12.html)|[✅](/2020/week%2012/README.md)|
 |13|C&BS Co IT:  Analysing Support Desk SLA Compliance|[📋](https://preppindata.blogspot.com/2020/03/2020-week-13.html)|[✅](/2020/week%2013/README.md)|
